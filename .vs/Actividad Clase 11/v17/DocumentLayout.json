@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D1DEBF-8072-4243-A40D-92526B0DEAA2}|UI\\UI.csproj|c:\\users\\user\\source\\repos\\actividad clase 11\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D1DEBF-8072-4243-A40D-92526B0DEAA2}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8F62EF-FF40-4E70-A278-8107F4A210F7}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\actividad clase 11\\dal\\tareadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8F62EF-FF40-4E70-A278-8107F4A210F7}|DAL\\DAL.csproj|solutionrelative:dal\\tareadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA361434-1540-4118-AC6C-E85381517B1C}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\actividad clase 11\\bll\\tareabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA361434-1540-4118-AC6C-E85381517B1C}|BLL\\BLL.csproj|solutionrelative:bll\\tareabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D1DEBF-8072-4243-A40D-92526B0DEAA2}|UI\\UI.csproj|c:\\users\\user\\source\\repos\\actividad clase 11\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9D1DEBF-8072-4243-A40D-92526B0DEAA2}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BB3CA-BAF1-4929-AD53-9205ABB2C69D}|Mapper\\Mapper.csproj|c:\\users\\user\\source\\repos\\actividad clase 11\\mapper\\tareamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BB3CA-BAF1-4929-AD53-9205ABB2C69D}|Mapper\\Mapper.csproj|solutionrelative:mapper\\tareamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D7DB84-1E1B-497E-9E91-14FDCFA71A92}|Entity\\Entity.csproj|c:\\users\\user\\source\\repos\\actividad clase 11\\entity\\model\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D7DB84-1E1B-497E-9E91-14FDCFA71A92}|Entity\\Entity.csproj|solutionrelative:entity\\model\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D7DB84-1E1B-497E-9E91-14FDCFA71A92}|Entity\\Entity.csproj|c:\\users\\user\\source\\repos\\actividad clase 11\\entity\\tareaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D7DB84-1E1B-497E-9E91-14FDCFA71A92}|Entity\\Entity.csproj|solutionrelative:entity\\tareaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\UI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:22:23.553Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\UI\\Form1.cs",
+              "RelativeToolTip": "UI\\Form1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:39:06.082Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TareaBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\BLL\\TareaBusiness.cs",
+              "RelativeDocumentMoniker": "BLL\\TareaBusiness.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\BLL\\TareaBusiness.cs",
+              "RelativeToolTip": "BLL\\TareaBusiness.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAawCgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:31:43.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TareaData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\DAL\\TareaData.cs",
+              "RelativeDocumentMoniker": "DAL\\TareaData.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\DAL\\TareaData.cs",
+              "RelativeToolTip": "DAL\\TareaData.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAEwCcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:33:12.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TareaMapper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\Mapper\\TareaMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\TareaMapper.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\Mapper\\TareaMapper.cs",
+              "RelativeToolTip": "Mapper\\TareaMapper.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:43:59.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TareaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\Entity\\TareaEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\TareaEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\Entity\\TareaEntity.cs",
+              "RelativeToolTip": "Entity\\TareaEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:28:53.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\Entity\\model\\Tarea.cs",
+              "RelativeDocumentMoniker": "Entity\\model\\Tarea.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Actividad Clase 11\\Entity\\model\\Tarea.cs",
+              "RelativeToolTip": "Entity\\model\\Tarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:54:27.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
